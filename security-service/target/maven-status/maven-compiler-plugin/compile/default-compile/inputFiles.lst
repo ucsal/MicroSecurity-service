@@ -1,0 +1,11 @@
+/home/raphael-maurcio/repos/faculdade/Sem5/Arq-Software/msvc/micro-services/security-service/src/main/java/com/ucsal/security/client/UserClient.java
+/home/raphael-maurcio/repos/faculdade/Sem5/Arq-Software/msvc/micro-services/security-service/src/main/java/com/ucsal/security/config/OpenApiConfig.java
+/home/raphael-maurcio/repos/faculdade/Sem5/Arq-Software/msvc/micro-services/security-service/src/main/java/com/ucsal/security/dto/LoginRequest.java
+/home/raphael-maurcio/repos/faculdade/Sem5/Arq-Software/msvc/micro-services/security-service/src/main/java/com/ucsal/security/security/SecurityConfig.java
+/home/raphael-maurcio/repos/faculdade/Sem5/Arq-Software/msvc/micro-services/security-service/src/main/java/com/ucsal/security/dto/UserMeResponse.java
+/home/raphael-maurcio/repos/faculdade/Sem5/Arq-Software/msvc/micro-services/security-service/src/main/java/com/ucsal/security/service/JwtService.java
+/home/raphael-maurcio/repos/faculdade/Sem5/Arq-Software/msvc/micro-services/security-service/src/main/java/com/ucsal/security/security/InternalAuthFilter.java
+/home/raphael-maurcio/repos/faculdade/Sem5/Arq-Software/msvc/micro-services/security-service/src/main/java/com/ucsal/security/SecurityServiceApplication.java
+/home/raphael-maurcio/repos/faculdade/Sem5/Arq-Software/msvc/micro-services/security-service/src/main/java/com/ucsal/security/dto/LoginResponse.java
+/home/raphael-maurcio/repos/faculdade/Sem5/Arq-Software/msvc/micro-services/security-service/src/main/java/com/ucsal/security/controller/AuthController.java
+/home/raphael-maurcio/repos/faculdade/Sem5/Arq-Software/msvc/micro-services/security-service/src/main/java/com/ucsal/security/dto/ErrorResponse.java
